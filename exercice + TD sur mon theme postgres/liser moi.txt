@@ -1,0 +1,11 @@
+==============================INFORMATION POUR SE CONNECTER A LA BASE DE DONNE=========================================
+
+server: localhost
+base de donnée: formation
+nom d'utilisateur: postgres
+nom de role: postgres
+mot de passe: (postgresql9666)  ou  (le mot de passe de votre server)
+
+==============================SECRET POUR BIEN LIRE LA DESCRIPTION DU PROJET=========================================
+
+Agrandisser tout simplement les pages pour bien voir les screenShots
